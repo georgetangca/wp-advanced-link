@@ -1,0 +1,20 @@
+#icon-edit.icon32-posts-simple_link,
+#icon-simple_link{
+	background-image:url( ../img/post-icon.png );
+	background-position: 0 0;
+	
+}
+
+
+.simple-links-input{
+	width: 98%;
+}
+
+.SL-additonal-input{
+	width: 75%;
+}
+
+
+#additional_fields.postbox .submit{
+	float: none;
+}
